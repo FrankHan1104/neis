@@ -1,0 +1,5 @@
+{
+  "name": "NEIS School Meal Explorer",
+  "description": "A comprehensive web application to search and view school meals across South Korea using the NEIS Open API. Features include school search, date range selection, and AI-powered meal analysis using Gemini.",
+  "requestFramePermissions": []
+}

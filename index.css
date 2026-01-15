@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-family-sans: 'Pretendard', sans-serif;
+  --color-slate-50: #f8fafc;
+}
+
+body {
+  font-family: 'Pretendard', sans-serif;
+  background-color: var(--color-slate-50);
+}
